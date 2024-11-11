@@ -12,7 +12,7 @@
 
 
 # Define the output file
-OUTPUT_FILE="pullRequest"
+OUTPUT_FILE="collbrateList"
 
 #Github Config
 GITHUB_TOKEN=$Token
